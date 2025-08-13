@@ -50,4 +50,6 @@ A summary of the project's findings and key visualizations are deployed and acce
 
 
 ## Acknowledgments
+
 *   **Inside Airbnb** ([https://insideairbnb.com/get-the-data/](https://insideairbnb.com/get-the-data/)) for providing the comprehensive and publicly available Airbnb dataset for Athens.
+*   **ASK Bosch** The BOSCH LLM for useful debugging help.
